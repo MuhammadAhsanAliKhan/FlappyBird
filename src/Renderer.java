@@ -1,4 +1,4 @@
-package flappyBird;
+
 
 
 import java.awt.Graphics;
